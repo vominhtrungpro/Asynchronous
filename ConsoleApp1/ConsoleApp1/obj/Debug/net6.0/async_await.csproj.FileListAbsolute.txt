@@ -1,0 +1,15 @@
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\async_await.exe
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\async_await.deps.json
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\async_await.runtimeconfig.json
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\async_await.dll
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\async_await.pdb
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.csproj.AssemblyReference.cache
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.AssemblyInfoInputs.cache
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.AssemblyInfo.cs
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.csproj.CoreCompileInputs.cache
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.dll
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\async_await.dll
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.pdb
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\async_await.genruntimeconfig.cache
+C:\Users\Trung.Vo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\async_await.dll
